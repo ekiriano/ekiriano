@@ -13,7 +13,7 @@
 
 I am a Full Stack Developer from France currently working in Melbourne Australia.
 
-- 🔭 I’m working as a Software Engineer at Wrkr contributing to frontend and backend entreprise applications. And as part of Merakigai, my own freelance practice and development studio.
+- 🔭 I’m working as a Software Engineer contributing to frontend and backend entreprise applications. And as part of Merakigai, my own freelance practice and development studio.
 - 🌱 Exploring Technical Content Writing [@Merakigai](https://merakigai.com/).
 - ⚡ In my free time i enjoy photography .
 - 📫 React me at : amine@merakigai.com
